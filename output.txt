@@ -1,0 +1,20 @@
+Enter Initial Guess:
+Iteration->2 : xi = 0.666667 f(xi) = 0.214113
+Iteration->3 : xi = 0.576765 f(xi) = -0.107937
+Iteration->4 : xi = 0.620737 f(xi) = 0.0487593
+Iteration->5 : xi = 0.600574 f(xi) = -0.0232878
+Iteration->6 : xi = 0.610139 f(xi) = 0.0108474
+Iteration->7 : xi = 0.605669 f(xi) = -0.0051137
+Iteration->8 : xi = 0.607773 f(xi) = 0.00239726
+Iteration->9 : xi = 0.606786 f(xi) = -0.00112672
+Iteration->10 : xi = 0.60725 f(xi) = 0.000528971
+Iteration->11 : xi = 0.607032 f(xi) = -0.000248459
+Iteration->12 : xi = 0.607134 f(xi) = 0.000116734
+Iteration->13 : xi = 0.607086 f(xi) = -5.47971e-05
+Iteration->14 : xi = 0.607109 f(xi) = 2.56479e-05
+Iteration->15 : xi = 0.607098 f(xi) = -1.20208e-05
+Iteration->16 : xi = 0.607103 f(xi) = 5.64304e-06
+Iteration->17 : xi = 0.607101 f(xi) = -2.65686e-06
+Iteration->18 : xi = 0.607102 f(xi) = 1.17386e-06
+Iteration->19 : xi = 0.607102 f(xi) = -5.28678e-07
+Root is: 0.607102
