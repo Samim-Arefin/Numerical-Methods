@@ -1,5 +1,5 @@
 /*
- *  Problem : Runge Kutta Method.cpp
+ *  Problem : Runge Kutta Method 2nd Order.cpp
  *  Created by Samim Arefin
 */
 
@@ -27,7 +27,7 @@ int main()
 
     for(int i=1;x0<xn;i++){
     	k1 = h*f(x0,y0);
-    	x0 = x0+i*h;
+    	x0 = x0+h;
     	k2 = h*f(x0,y0+k1);
     	y0 = y0 + 0.5*(k1+k2);
     	std::cout<<"x0 y0 k1 k2 = "<<fixed<<setprecision(4)<<x0<<" "<<y0<<" "<<k1<<" "<<k2<<'\n';
